@@ -20,8 +20,6 @@ This project compares classical TF-IDF classifiers, semantic embeddings and a fi
 | [Customer_Feedback_NLP.ipynb](Customer_Feedback_NLP.ipynb) | Full workflow, saved outputs, visualisations and interactive Gradio triage demo |
 | [Yolanda_Nkala_NLP_Report.docx](Yolanda_Nkala_NLP_Report.docx) | Written analysis, findings, limitations and references |
 
-The notebook and report are the supplied originals, published under shorter filenames.
-
 ## Dataset
 
 - **Source:** [Yelp Review Full](https://huggingface.co/datasets/Yelp/yelp_review_full), introduced by Zhang, Zhao and LeCun (2015).
